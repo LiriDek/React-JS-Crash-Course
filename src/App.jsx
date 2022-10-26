@@ -54,7 +54,7 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="users/:id" element={<Users />} />   /** Stopped at 1h17 again */
+          <Route path="users/:id" element={<Users />} />   /** Stopped at 1h41 */
         </Routes>
       </Router>
 
